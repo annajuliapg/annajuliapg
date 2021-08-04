@@ -1,8 +1,8 @@
 ### Olá! 👋
 
 - 🔭 Trabalhando atualmente com Engenharia de Dados e Business Intelligence
-- 🌱 Estudando PySpark
-- 😄 Pronouns: Ela / Dela
+- 🌱 Atualmente Estudando: PySpark, Databricks
+- 😄 Pronomes: Ela / Dela
 
  <div>
   <a href="https://github.com/annajuliapg">

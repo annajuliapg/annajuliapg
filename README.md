@@ -1,7 +1,5 @@
 ### Olá! 👋 
 
-<img align="center" alt="VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-
 - 🔭 Trabalhando atualmente com Engenharia de Dados e Business Intelligence
 - 😄 Pronomes: Ela / Dela
 
